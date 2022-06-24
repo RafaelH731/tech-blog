@@ -1,5 +1,6 @@
 header, .project:not(:last-child) {
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid rgb(97, 74, 74);
+    color: #000000;
   }
   
   .no-button {
@@ -23,3 +24,10 @@ header, .project:not(:last-child) {
     margin-left: -5px;
   }
   
+  #test {
+    background-color: #92977e;
+  }
+
+  #bodyid {
+    background-color: #fffae2;
+  }
